@@ -1,0 +1,7 @@
+clk_wiz_0_sim_netlist.vhdl,vhdl,xil_defaultlib,srcs/ip/clk_wiz_0/xil_defaultlib/clk_wiz_0_sim_netlist.vhdl,incdir="../../../../tools/AMD/2025.2/data/rsb/busdef"
+Package.vhd,vhdl,xil_defaultlib,srcs/Package.vhd,incdir="../../../../tools/AMD/2025.2/data/rsb/busdef"
+VGA.vhd,vhdl,xil_defaultlib,srcs/VGA.vhd,incdir="../../../../tools/AMD/2025.2/data/rsb/busdef"
+object.vhd,vhdl,xil_defaultlib,srcs/object.vhd,incdir="../../../../tools/AMD/2025.2/data/rsb/busdef"
+object_2.vhd,vhdl,xil_defaultlib,srcs/object_2.vhd,incdir="../../../../tools/AMD/2025.2/data/rsb/busdef"
+TopModule.vhd,vhdl,xil_defaultlib,srcs/TopModule.vhd,incdir="../../../../tools/AMD/2025.2/data/rsb/busdef"
+glbl.v,Verilog,xil_defaultlib,glbl.v

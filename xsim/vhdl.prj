@@ -1,0 +1,10 @@
+vhdl xil_defaultlib  \
+"srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_sim_netlist.vhdl" \
+"srcs/sources_1/new/Package.vhd" \
+"srcs/sources_1/new/VGA.vhd" \
+"srcs/sources_1/new/object.vhd" \
+"srcs/sources_1/new/object_2.vhd" \
+"srcs/sources_1/new/TopModule.vhd" \
+
+# Do not sort compile order
+nosort
